@@ -2,10 +2,9 @@
 
 獅尾螺帽黑體基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)增加斜角和拔腳改造，更加簡明現代化的字體。支援简体中文、繁體中文、韓文與日文；歡迎大家自由應用、自由優化、自由改作！
 
-![字體預覽](https://github.com/max32002/swei-nut-sans/raw/master/preview/welcome.png)
+獅尾螺帽黑體的特色是，「口」字的轉角處增加一個斜角，外形有點像螺帽。
 
-和思源黑體一樣，支援7種的字重：
-![字體比較預覽](https://github.com/max32002/swei-nut-sans/raw/master/preview/compare_style.png)
+![字體預覽](https://github.com/max32002/swei-nut-sans/raw/master/preview/welcome.png)
 
 ## 與其他字體的比較
 * 在「刂」的筆畫，獅尾比較相似台灣(教育部國字標準字體)教育部推薦字體筆順。
