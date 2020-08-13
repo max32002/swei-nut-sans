@@ -26,9 +26,9 @@
 可以服用下面的css:
 ```
 @font-face {
-  font-family: SweiNutLegCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-nut-sans@2.0/WebFont/CJK%20TC/SweiNutLegCJKtc-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/swei-nut-sans@2.0/WebFont/CJK%20TC/SweiNutLegCJKtc-Regular.woff) format("woff");
+  font-family: 'SweiNutSansCJKtc-Regular';
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-nut-sans@2.0/WebFont/CJK%20TC/SweiNutSansCJKtc-Regular.woff2) format("woff2")
+  , url(https://cdn.jsdelivr.net/gh/max32002/swei-nut-sans@2.0/WebFont/CJK%20TC/SweiNutSansCJKtc-Regular.woff) format("woff");
 }
 ```
 
