@@ -4,6 +4,8 @@
 
 獅尾螺帽黑體的特色是，「口」字的轉角處增加一個斜角，外形有點像螺帽。
 
+「獅尾螺帽黑體」和「獅尾螺帽腿黑體」差別在有沒有拔腳，「拔腳」就是會有較少的筆畫，例如移除「口」字的左右下角會多出的短線條。有拔腳的字會較圓，但是會造成有些字因直接去掉腿後左右不平衡、左右不對襯的「懸空」問題。改使用「腿」系列字體就不會有這個問題。
+
 ![字體預覽](https://github.com/max32002/swei-nut-sans/raw/master/preview/welcome.png)
 
 和思源黑體一樣，支援7種的字重：
@@ -64,6 +66,8 @@ https://max-everyday.com/2020/08/b2-hana-font/
 https://max-everyday.com/2020/08/hana-meatball/
 
 獅尾黑體家族：
+* 獅尾螺帽腿黑體 Swei Nut Leg
+https://max-everyday.com/2020/08/swei-nut-leg/
 * 獅尾螺帽黑體 Swei Nut Sans
 https://max-everyday.com/2020/08/swei-nut-sans/
 * 獅尾B2腿黑體 Swei B2 Leg
